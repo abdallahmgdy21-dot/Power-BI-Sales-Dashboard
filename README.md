@@ -4,11 +4,11 @@ An interactive B2B Sales Dashboard built in Power BI, analyzing sales trends, cu
 
 📊 Dashboard Previews
 You can watch a quick video walkthrough of the interactive dashboard from here:
-👉 [https://drive.google.com/file/d/1ckUoZWrwrmwlGGDWlKAdUr6WNZzC5WNl/view?usp=sharing)
+👉 [https://drive.google.com/file/d/17RrcJ_G3KXC5B476ExJpCXJLyxlOsqJv/view?usp=sharing)
 
 📁 Download Project File
 You can download the full interactive `.pbix` file and test it on your machine from here:
-👉 [https://drive.google.com/file/d/1ckUoZWrwrmwlGGDWlKAdUr6WNZzC5WNl/view?usp=sharing)
+👉 [https://drive.google.com/file/d/16a0GeqFmIzyZnmUAKbB4HpPtHPlYnISz/view?usp=sharing)
 
 🛠️ Technologies Used
 - Power BI (Data Modeling, DAX, Power Query)
